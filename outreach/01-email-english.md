@@ -23,7 +23,7 @@ reaching out.
 No brief, just my read on the product. Tell me the direction you
 want and I'll rebuild it to your brand guidelines.
 
-The full version runs 15–20 seconds in native 4K, includes two
+The full version runs up to 20 seconds in native 4K, includes two
 rounds of revisions, and takes five business days.
 
 Is there a campaign you're building toward this quarter?
@@ -103,44 +103,85 @@ Send those over and I'll put together the right setup.
 
 ## When they ask "how much?"
 
-Don't send a price list. Name two options, recommend one.
+Don't send a price list. Name two options, expensive one first, recommend one.
 
 ```
 Depends mostly on where it runs. Typically:
 
-· Campaign package — four 15–20s videos in 4K, one art direction
-  across all of them, two revision rounds each, 12-month exclusive
-  usage, source files included — ₩4,000,000 (~$2,850)
+· Pack of three — three 4K videos up to 20s, one art direction
+  across all of them, two revision rounds each — ₩1,500,000 (~$1,070)
 
-· Single hero video — one 15–20s 4K cut, two revisions,
-  organic + paid usage for 6 months — ₩800,000 (~$570)
+· Single hero video — one 4K cut up to 20s, two revisions
+  — ₩600,000 (~$430)
+
+Five business days, 50% deposit / 50% on delivery.
 
 Most brands start with one hero, see how it performs, then move to
-the package.
+the pack.
 
 For [Product Name] I'd say hero is the right call. Want me to
 scope that?
 ```
 
+> If they say it's running as paid media or on in-store screens, the
+> usage terms change. That's why "where will it run" comes before any number.
+
 ---
 
 ## When they say "that's expensive"
 
-**Never drop the number on the spot.** Drop the scope instead.
-(Closing, Rule #11)
+**Never drop the number alone.** Cut scope, or trade. (Closing, Rule #11)
+
+**Option 1 — cut scope**
 
 ```
-Totally understand — let's find something that fits the budget.
+Totally understand — let's fit the budget.
 
-Two ways to do that:
+A single cut under 10 seconds instead of a full hero is ₩400,000.
+Plenty for feed and stories.
 
-1. A single 6–10 second cut instead of a full hero — ₩450,000.
-   Plenty for feed and stories.
+Which works better for you?
+```
 
-2. Keep the hero but limit usage to organic only, which brings
-   the number down.
+**Option 2 — trade (the only place ₩500,000 appears)**
 
-Which of those works better for you?
+```
+Here's what I can do.
+
+₩500,000, if two things come with it:
+
+1. If you're happy with the result — a one-line testimonial, and
+   permission to name the brand in my portfolio
+2. Two or three weeks after it's live, share the numbers with me
+   (saves or CTR is enough)
+
+Works for you?
+```
+
+You give up ₩100,000 and get back the thing you're actually short on:
+proof. Same structure as the lesson04 script.
+
+**Option 3 — start small**
+
+```
+Want to start with just the concept stage?
+
+Two concept directions plus a storyboard is ₩200,000, and it comes
+off the production fee if you go ahead.
+```
+
+---
+
+## Terms block (attach to any quote)
+
+```
+· Timeline: 5 business days from storyboard approval
+· Revisions: 2 included, within 7 days of preview delivery
+· Direction changes after storyboard approval are a separate order
+· 50% deposit / 50% on delivery; final 4K file released on final payment
+· Usage: brand's own organic social
+  (paid media / in-store screens quoted separately)
+· Portfolio use permitted 30 days after the brand publishes
 ```
 
 ---
